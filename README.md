@@ -9,12 +9,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/luchorivardo/count.svg?" alt="visitor badge"/></p>
 
 ### 🛠 &nbsp;Habilidades
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg)&nbsp;
-![GitHub](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg)&nbsp;
-![Visual Studio Code](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg)&nbsp;
-![.net](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg)&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,github,visualstudio)](https://skillicons.dev)
 
 ### :link: &nbsp;Contacto
