@@ -5,11 +5,8 @@
 
 <p align="center" width="150px">Acabo de comenzar mi Tecnicatura en desarrollo de software.</p>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
+<p align="center"><b>Contador Visitantes</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/luchorivardo/count.svg?" alt="visitor badge"/></p>
 
 ### 🛠 &nbsp;Habilidades
 
@@ -19,11 +16,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 
-### :link: &nbsp;Contactame!
+### :link: &nbsp;Contacto
 
 <p align="center">
-<a href="mailto:luchorivardo@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/luchorivardo5/"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:luchorivardo@gmail.com"><img src="https://img.shields.io/badge/-luchorivardo@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/luchorivardo5/"><img src="https://img.shields.io/badge/-luchorivardo05-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
